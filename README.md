@@ -2,5 +2,5 @@
 - 👀 I’m interested in interactive art and creative coding
 - 🌱 I’m currently learning touchdesigner
 - ✨ I' working as a frontend developer
-- 💞️ I’m looking to collaborate on artcombined with technology projects 
+- 💞️ I’m looking to collaborate on art combined with technology projects 
 - 📫 How to reach me on instagram under miss_haupt
